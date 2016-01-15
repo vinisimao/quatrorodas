@@ -1,0 +1,36 @@
+body {
+	background-color: #e6e6e6;
+}
+
+.menu-top {
+	background-color: red;
+	height: 90px;
+   padding: 20px;
+   margin: 0 auto;
+}
+
+.banner {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.semmargem {
+	margin:0;
+	padding:0;
+}
+
+.altura_quadrante {
+	height: 250px;
+}
+
+ul {
+	      list-style: none;
+    float: right;
+}
+
+ul li {
+	    display: inline-block;
+    font-size: 17px;
+    color: white;
+    margin: 16px;
+}
